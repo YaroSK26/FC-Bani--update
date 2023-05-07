@@ -13,7 +13,7 @@
     }
 
     // Nastavte si email, nakterý chcete, aby se vyplněný formulář odeslal - jakýkoli váš email
-    $recipient = "branislavmartincko@fcbani.eu";
+    $recipient = "jaroba0@gmail.com";
 
     // Nastavte předmět odeslaného emailu
     $subject = "Nový formulár od: $name";
