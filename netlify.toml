@@ -1,0 +1,7 @@
+# Specifikovat Build command, který se má spustit před publikací
+[build]
+  command = "php index.php"
+
+# Specifikovat Publish directory, kde jsou soubory určené pro publikaci
+[publish]
+  directory = "public"

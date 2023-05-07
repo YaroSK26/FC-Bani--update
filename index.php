@@ -16,20 +16,18 @@
     <meta name="robots" content="index, follow" />
     <meta http-equiv="Cache-Control" content="no-store">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta name="description" content="stránka pre imaginárny  futbalový klub FC Bäni">
-    <meta name="keywords" content="futbal,historia,shop,zostava">
-    <meta name="description" content="website for the imaginary football club FC Bäni">
+    <meta name="description" content="FC Bäni - najnovšie správy, výsledky a štatistiky zápasov, hráčske profily, fotogalérie a videozáznamy tréningov a zápasov. Sledujte nás a podporte náš tím!">
     <meta name="keywords" content="football, history of FC Bäni, team, shop">
-
     <meta name="author" content="JaXo">
-
+      
     
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="queries.css">
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="script.js"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4658673932856794"
+     crossorigin="anonymous"></script>
 
     <link rel="icon" href="images/fcbani.png">
     <title> Futbalový klub - FC Bäni</title>
@@ -64,12 +62,13 @@
     <div class= "FC-Kosice">
       
       <video  class="video-container"  width="300" height= "300" controls>
-          <source src="images/IMG_2171.mov" type="video/mp4">
+          <source src="images/leskinen.mov" type="video/mp4">
       </video>
  
   
       <p class="sagna "> 
-          Dvaja hráči FC Baniyas, Peter German a Alex Kordillery, boli prítomní na hokejovom zápase medzi HC Košice a Dukla Michalovce, ktorý sa uskutočnil v nedeľu 12. marca 2022 na štadióne v Košiciach. Aj keď títo hráči nie sú súčasťou slovenskej hokejovej ligy, boli na zápase ako fanúšikovia a podporovali domáci tím. Po víťazstve HC Košice nad Duklou Michalovce s výsledkom 3:1, Peter a Alex oslavovali spolu s ďalšími fanúšikmi na štadióne a skandovali: "Vajoooooooooooooo Vaaajoooooooooo Vaaaaaajooo!
+          Peter German a Alex Kordillery z FC Baniyas boli na finálovom zápase HC Košice a HKM Zvolen, kde HC Košice vyhrali ligu so skóre 3:0 a v serii 4:1. Na zápase opäť skandovali svoj obľúbený pokrik "Vaaajooooo". O deň neskôr sa stretli s hráčmi HC Košice, kde sa odfotili a videli zopár zaujímavých momentov. Brett Pollock potľapkal Jakuba Ferenca na opačné rameno a rýchlo odišiel, pričom keď sa Ferenc otočil na stranu kde bol potľapkaný, nikoho neuvidel. Ville Leskinen sa na stretávke dosť opil a dokonca rozbil niekoľko pohárov, pričom jeden z nich hodil silou na zem. Peter a Alex tiež videli, ako sa Leskinen vymočil na verejnosti. <br>
+          Celkový zážitok z návštevy finálového zápasu a stretávky s hráčmi HC Košice bol pre hráčov FC Bani Petra a Alexa úžasný. Boli svedkami historického víťazstva a mali príležitosť spoznať hráčov, ktorých obdivujú a sledujú na ľade. Aj vďaka týmto zábavným a vtipným momentom, ktoré zažili, si to Peter a Alex zapamätajú ešte lepšie a s úsmevom na tvári na to budú spomínať aj v budúcnosti.
                
 
       </p>
@@ -215,7 +214,7 @@ Vytvorené v aplikácii na vytváranie log. Znázorňuje farby dresov a šport -
 </div>
 <div class="c1">
           <img class="jaro" src="images/jaro.png" alt="obrázok jara">
-          <p  id="scroll-shop"  class="jaroText c1-text"> <strong>Jaro - </strong> je frajer. Najlepší futbalista z klubu FC Bäni. Gulaš, Karbonátok. <p>
+          <p  id="scroll-shop"  class="jaroText c1-text"> <strong>Yaro - </strong> je frajer. Najlepší futbalista z klubu FC Bäni. Gulaš, Karbonátok. <p>
 </div>
    </div>
 </div>
